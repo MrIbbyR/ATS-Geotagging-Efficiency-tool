@@ -2,7 +2,7 @@
 
 Automation script to optimise recruiter workflows for SmartRecruiters prospect screening.
 
-This is a time-saving script to assist with geotagging of prospects with NER as well as the automation of recruiter behaviour to tag inbound talent. Key features solve business problems such as missing location data, automation of key recruiter behaviours for efficient screening, and minimising click-ops to review talent.
+This is a time-saving script to assist with geotagging of high volume prospects with location specific tech as well as the automation of key recruiter behaviours to tag inbound talent. Key features solve business problems such as missing location data, automation of key recruiter behaviours for efficient screening, and minimising click-ops to review talent.
 
 ⸻
 
