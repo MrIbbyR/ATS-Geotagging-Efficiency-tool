@@ -1,0 +1,10 @@
+# Security / CTF keywords (Ctrl+F style)
+# One per line or comma-separated
+CTF, ctf
+capture the flag
+reverse engineering
+bug bounty, Bug bounty, Bug Bounty
+anti-bot, anti bot, antibot
+bot detection evasion
+bot mitigation
+scraping

@@ -1,0 +1,8 @@
+# Custom keyword expansions (copy to keyword_expansions.txt)
+# Format: abbreviation|full form 1, full form 2, full form 3
+# When you search for the abbreviation, these variants are also searched.
+#
+# Examples:
+# R&D|research and development, research & development
+# ML|machine learning, machine-learning
+# EHS|environmental health and safety, EHS management

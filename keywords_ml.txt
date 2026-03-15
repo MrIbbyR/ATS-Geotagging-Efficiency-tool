@@ -1,0 +1,14 @@
+# ML / Research Scientist keywords (Ctrl+F style)
+# One per line or comma-separated
+Pytorch, pytorch, PyTorch, Py-Torch
+Tensorflow, tensorflow
+keras, Keras
+Azure, cloud, aws, azure
+PHD
+Chennai, chennai
+Pune, pune
+Research, research
+Machine Learning, machine learning
+Deep Learning, deep learning
+NLP, nlp, natural language processing
+R&D, research & development
