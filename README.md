@@ -167,7 +167,7 @@ python req.py --keywords-file X  # Load from file
 
 ## Output
 
-- **Excel report** – Name, title, company, location, screening Q&A, keyword matches, semantic tags
+- **Excel report** – title, company, location, salary, cntrl f keyword matches, semantic tags
 - **Email** – Report sent to `EMAIL_TO` (default: email-only, no local file)
 - **Filename** – `{RoleName}_{RequisitionNumber}.xlsx` when job details are detected
 
@@ -175,7 +175,6 @@ python req.py --keywords-file X  # Load from file
 
 ## GDPR notes
 
-- **Email-only mode** – No local storage; report sent directly
 - **Encryption in transit** – TLS for SMTP
 - **Encryption at rest** – Gmail/Outlook encrypt stored mail
 - **Report files** – `*.xlsx` in `.gitignore`; do not commit candidate data
